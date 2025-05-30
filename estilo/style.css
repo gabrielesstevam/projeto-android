@@ -163,7 +163,6 @@ aside h3 {
 aside ul{
     color: var(--cor5);
     font-weight: 600;
-    list-style-type: circle;
     list-style-position: inside;
     columns: 2;
 }
